@@ -1,0 +1,5 @@
+{
+  "name": "Visual-to-Video Json Prompt Generator",
+  "description": "Upload an image to generate a detailed, cinematic video prompt. This tool analyzes your image and creates a structured JSON output with scene descriptions, camera movements, lighting, and a ready-to-use prompt for video generation models.",
+  "requestFramePermissions": []
+}
